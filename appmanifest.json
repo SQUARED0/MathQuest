@@ -1,7 +1,7 @@
 {
 	"name": "Math Quest",
 	"short_name": "Math Quest",
-	"description": "",
+	"description": "Math Quest",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
